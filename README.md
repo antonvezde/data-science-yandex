@@ -1,2 +1,4 @@
 # data_science
-Major data science projects are presented in this repository.
+Main data science projects are presented in this repository.
+Projects include: churn rate prediction, exploratory data analysis, company's revenue prediction, hypothesis testing, and etc.
+Stack used: Scikit-learn, NumPy, SciPy, Pandas.
