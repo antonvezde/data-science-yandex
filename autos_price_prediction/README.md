@@ -6,4 +6,4 @@ The following historical data is available: technical characteristics, price, eq
 ## Aim
 Build a predicting model.
 ## Evaluation metric
-Prediction time, prediction quality, and fitting time
+Prediction time, prediction quality, and fitting time.
