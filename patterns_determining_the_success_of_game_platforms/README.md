@@ -3,6 +3,6 @@ Exploratory data analysis for an internet shop which sells games for different p
 ## Description
 Historical data for different years is available for analysis.
 ## Aim
-Develop a strategy to sell games for the next year based on previous years
+Identify patterns that determine success of game platforms.
 ## Evaluation metric
 Data preparation, cleaning, and hypothesis testing.
