@@ -6,4 +6,4 @@ The model will help optimize production so as not to launch an enterprise with u
 ## Aim
 Develop a machine learning model.
 ## Evaluation metric
-sMAPE
+sMAPE 
