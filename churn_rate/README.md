@@ -7,3 +7,4 @@ behavior and termination of agreements with the bank.
 Build a model with F1-score > 0.59.
 ## Evaluation metric
 AUC-ROC, F1-score.
+ 
