@@ -11,3 +11,4 @@ The steps for choosing a location:
 Determine the location of a well.
 ## Evaluation metric
 Build a model to determine the region where mining will bring the most profit. Analyze possible profits and risks using the Bootstrap technique.
+ 
