@@ -1,8 +1,12 @@
 ## Repository description
-Main data science projects are presented in this repository.
-## Duration
-These projects have been accomplished during an intensive 9-month bootcamp run by Yandex.
-## Accomplished projects
-Projects include: machine learning to solve business tasks, churn rate prediction, exploratory data analysis, company's revenue prediction, hypothesis testing, time series analysis, natural language processing, and etc.  
-## Stack used
-Python, OOP, Scikit-learn, NumPy, SciPy, Pandas, Matplotlib, LightGBM, CatBoost.
+Main projects accomplished during a 9-month data science bootcamp are presented here.  
+Check out the Table below for the descriptopn of the projects.
+
+| #   | Project title                                                    | Description        | Goal       | Tools   |
+|:---:| ---------------                                                  | ----------------   | --------   |-------  |
+|1    | `Churn rate preidction of bank clients.`                         | Clients started leaving the bank every month. A little, but noticeable. Banking marketers figured out it was cheaper to keep current customers than to attract new ones. It is necessary to predict whether the client will leave the bank in the near future or not. Provided historical data on customer behavior and termination of agreements with the bank. | Based on data from the bank, determine the client who can leave. | Python, Scikit-learn, Matplotlib|
+|2    | `Determination of the most profitable oil production region.`    | You have been provided with oil samples in three regions. The characteristics for each well in the region are already known. Build a model to determine the region where mining will bring the most profit. | Based on the data explored by geologists, choose an oil production area. | Python, Pandas, Scikit-learn, Bootstrap |
+|3    | `Building a model for determining the cost of a car.`            | A car service is developing an app to attract new customers. You can quickly find out the market value of your car in it. Based on historical data, it is necessary to build a model to determine the price of the car. | Development of a system for recommending the cost of a car based on its description. | Python, Pandas, Lightgbm |
+|4    | `Study of the technological process of gold refining.`           | Build a machine learning model for an industrial company that develops solutions for the efficient operation of industrial enterprises. The model should predict the gold recovery rate from gold ore based on data with mining and refining parameters. The model will help optimize production to launch an enterprise with profitable characteristics. | Predict the concentration of gold during the gold refining process. | Python, Matplotlib, Pandas, NumPy, Scikit-learn, EDA |
+|5    | `Forecasting the number of taxi orders for the next hour.`       | The taxi company has collected historical data on taxi bookings at airports. To attract more drivers during the peak period, you need to predict the number of taxi orders for the next hour. | Development of a system for predicting the volume of an order.  | Python, Scikit-learn, Pandas, statsmodel |
+|6    | `Training a comment classification model.`                       | The online store launches a new service. Now users can edit and supplement product descriptions, just like in wiki communities. That is, clients propose their edits and comment on the changes of others. A tool is required that will look for toxic comments and submit them for moderation. | Definition of toxicity comments. | Python, Pandas, tf-idf, nltk |
