@@ -1,5 +1,5 @@
 ## Repository description
-Main projects accomplished during a 9-month data science bootcamp are presented in this repository.  
+Several main projects accomplished during a 9-month data science bootcamp are presented in this repository.  
 Check out the Table below for the project title (clickable link), description, goal, and tools used.
 
 | #   | Project title                                                    | Description        | Goal       | Tools   |
