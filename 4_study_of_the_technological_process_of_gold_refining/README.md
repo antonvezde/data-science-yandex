@@ -1,2 +1,2 @@
 ### Results
-sMAPE = 7.24
+sMAPE = 7.24.
