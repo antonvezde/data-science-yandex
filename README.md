@@ -1,3 +1,7 @@
+## About Data Science specialization by Yandex.Practicum
+Yandex is Russia’s Google, and it's one of the top five tech companies in Europe. Practicum by Yandex is an intensive 9-month Data Scientist career advancement program.
+During Practicum experience, various Data Science projects were carried out using: 
+Python and essential libraries, EDA, SDA, Data Preprocessing/Data visualization, web scraping/data storage/SQL, Machine learning, Natural language processing, Computer vision.
 ## Repository description
 Several main projects accomplished during a 9-month data science bootcamp are presented in this repository.  
 Check out the Table below for the project title (clickable link), description, goal, and tools used.
